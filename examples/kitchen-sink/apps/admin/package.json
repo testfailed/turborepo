@@ -21,6 +21,6 @@
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "typescript": "5.5.4",
-    "vite": "^7.1.5"
+    "vite": "^7.1.11"
   }
 }
