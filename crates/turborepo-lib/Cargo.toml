@@ -43,7 +43,7 @@ biome_diagnostics = { workspace = true }
 biome_json_parser = { workspace = true }
 biome_json_syntax = { workspace = true }
 camino = "1.1.4"
-capnp = "0.17.2"
+capnp = "0.18.1"
 chrono = { workspace = true, features = ["serde"] }
 clap = { workspace = true, features = ["derive", "env"] }
 clap_complete = { workspace = true }
