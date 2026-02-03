@@ -87,7 +87,7 @@ biome_deserialize_macros = { version = "0.6.0" }
 biome_diagnostics = { version = "0.5.7" }
 biome_json_parser = { version = "0.5.7" }
 biome_json_syntax = { version = "0.5.7" }
-bytes = "1.1.0"
+bytes = "1.11.1"
 camino = { version = "1.1.4", features = ["serde1"] }
 chrono = "0.4.23"
 clap = "4.5.16"
