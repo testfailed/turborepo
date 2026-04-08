@@ -28,6 +28,6 @@
     "storybook": "^8.6.17",
     "@repo/typescript-config": "workspace:*",
     "typescript": "5.5.4",
-    "vite": "^7.3.2"
+    "vite": "^8.0.7"
   }
 }
