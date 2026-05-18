@@ -1577,7 +1577,7 @@ packages:
       vite-plugin-inspect: 11.3.3(@nuxt/kit@4.2.1)(vite@7.3.3)
       vite-plugin-vue-tracer: 1.1.3(vite@7.3.3)(vue@3.4.21)
       which: 5.0.0
-      ws: 8.18.3
+      ws: 8.20.1
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -1627,7 +1627,7 @@ packages:
       vite-plugin-inspect: 11.3.3(@nuxt/kit@4.2.1)(vite@7.3.3)
       vite-plugin-vue-tracer: 1.1.3(vite@7.3.3)(vue@3.5.28)
       which: 5.0.0
-      ws: 8.18.3
+      ws: 8.20.1
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -11687,8 +11687,8 @@ packages:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
     dev: true
 
-  /ws@8.18.3:
-    resolution: {integrity: sha512-PEIGCY5tSlUt50cqyMXfCzX+oOPqN0vuGqWzbcJ2xvnkzkq46oOpz7dQaTDBdfICb4N14+GARUDw2XV2N4tvzg==}
+  /ws@8.20.1:
+    resolution: {integrity: sha512-It4dO0K5v//JtTXuPkfEOaI3uUN87iYPnqo/ZzqCoG3g8uhA66QUMs/SrM0YK7/NAu+r4LMh/9dq2A7k+rHs+w==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
