@@ -28,7 +28,7 @@
     "fs-extra": "^10.0.0",
     "ndjson": "^2.0.0",
     "ngraph.generators": "^19.3.0",
-    "node-fetch": "^2.6.8",
+    "node-fetch": "^3.3.2",
     "sharp": "^0.33.2",
     "shelljs": "^0.8.4",
     "vega": "^6.2.0"
