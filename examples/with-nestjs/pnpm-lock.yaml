@@ -3480,7 +3480,7 @@ packages:
     dependencies:
       baseline-browser-mapping: 2.10.31
       caniuse-lite: 1.0.30001793
-      electron-to-chromium: 1.5.359
+      electron-to-chromium: 1.5.360
       node-releases: 2.0.44
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
@@ -4231,8 +4231,8 @@ packages:
     resolution: {integrity: sha512-z2U3QcvNuxdkk33YV7R1bVMNq7fL23vq3WfO5BHcqrm4TnDGReouBfYKLEFh5umoK1XACjEwp8mmnhXk2EJigw==}
     dev: true
 
-  /electron-to-chromium@1.5.359:
-    resolution: {integrity: sha512-8lPELWuYZIWk7NDvCNthtmMw/7Q5Wu25NpM4djFMHBmk8DubPAtL4YTOp7ou0e7HyJtwkVlWv8XMLURnrtgJQw==}
+  /electron-to-chromium@1.5.360:
+    resolution: {integrity: sha512-GkcBt6YYAw9SxFWn+xVar4cLVGlXVuswwtRLBozi2zp0GjXs4ZnOrqV4zbXzg35n7w81hCkyJNYicgXlVHAmBA==}
 
   /emittery@0.13.1:
     resolution: {integrity: sha512-DeWwawk6r5yR9jFgnDKYt4sLS0LmHJJi3ZOnb5/JdbYwj3nW+FxQnHIjhBKz8YLC7oRNPVM9NQ47I3CVx34eqQ==}
