@@ -4,6 +4,6 @@
     "build": "next build"
   },
   "dependencies": {
-    "next": "^16.2.7"
+    "next": "^16.2.9"
   }
 }
