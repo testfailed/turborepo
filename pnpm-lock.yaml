@@ -633,8 +633,8 @@ importers:
         specifier: ^11.1.0
         version: 11.1.1
       js-yaml:
-        specifier: ^5.0.0
-        version: 5.0.0
+        specifier: ^5.1.0
+        version: 5.1.0
       json5:
         specifier: ^2.2.3
         version: 2.2.3
@@ -748,8 +748,8 @@ importers:
         specifier: ^29.7.0
         version: 29.7.0(@types/node@20.5.7)
       js-yaml:
-        specifier: ^5.0.0
-        version: 5.0.0
+        specifier: ^5.1.0
+        version: 5.1.0
       json5:
         specifier: ^2.2.3
         version: 2.2.3
@@ -812,8 +812,8 @@ importers:
         specifier: ^8.0.0
         version: 8.2.4
       js-yaml:
-        specifier: ^5.0.0
-        version: 5.0.0
+        specifier: ^5.1.0
+        version: 5.1.0
       ora:
         specifier: 4.1.1
         version: 4.1.1
@@ -8653,8 +8653,8 @@ packages:
     dependencies:
       argparse: 2.0.1
 
-  /js-yaml@5.0.0:
-    resolution: {integrity: sha512-GSvaPUbk1U+FMZ7rJzF+F8e5YVtu7KnD40et/5rBXXRBv2jCO9L3qCewvIDDdudC0QycTFlf6EAA+h3kxBsuUw==}
+  /js-yaml@5.1.0:
+    resolution: {integrity: sha512-s8VA5jkR8f22S3NAXmhKPFqGUduqZGlsufabVOgN14iTdw/RXcym7bKkbwjxLK9Yw2lEvvmJjFp119+KPeo8Kg==}
     hasBin: true
     dependencies:
       argparse: 2.0.1
