@@ -11,8 +11,8 @@
   "dependencies": {
     "@repo/ui": "workspace:*",
     "@repo/typeorm-service": "workspace:*",
-    "typeorm": "^0.3.29",
-    "next": "^16.2.9",
+    "typeorm": "^0.3.31",
+    "next": "^16.2.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
