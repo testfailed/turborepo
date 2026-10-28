@@ -25,9 +25,9 @@
     "@vitejs/plugin-react": "^4.2.1",
     "eslint": "^8.57.0",
     "serve": "^14.2.1",
-    "storybook": "^8.6.17",
+    "storybook": "^8.6.19",
     "@repo/typescript-config": "workspace:*",
     "typescript": "5.5.4",
-    "vite": "^8.3.4"
+    "vite": "^8.3.5"
   }
 }
